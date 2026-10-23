@@ -54,9 +54,6 @@ This project prioritizes playback stability, so tracks may take longer to load b
 
 1. 下載專案 | Clone the repository
 
-git clone <YOUR_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_DIRECTORY>
-
 2. 建立虛擬環境 | Create a virtual environment
 
 python -m venv .venv
