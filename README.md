@@ -160,6 +160,10 @@ The following is a general overview. Refer to "bot.py" for the exact commands an
 
 授權 | License
 
-請依照你選擇的開源授權條款補上授權資訊。如果尚未決定授權方式，請先確認你是否允許他人使用、修改及散布本專案。
+本專案採用 GNU General Public License v3.0（GPL-3.0）授權。你可以自由使用、研究、修改及散布本專案，但散布程式或其衍生作品時，必須遵守 GPL-3.0 的相關條款。
 
-Add the license information for your chosen open-source license. If you have not selected one yet, decide whether others may use, modify, and redistribute this project before adding a license.
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0). You are free to use, study, modify, and distribute this project, subject to the terms of the GPL-3.0 when distributing the program or derivative works.
+
+詳情請參閱 "LICENSE" (LICENSE) 檔案。
+
+See the "LICENSE" (LICENSE) file for details.
