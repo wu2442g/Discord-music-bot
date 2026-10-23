@@ -1,5 +1,9 @@
 # Discord Music Bot
 
+以下為LLM協助撰寫
+
+The following was written with the assistance of LLM.
+
 一個以播放穩定性為優先設計的 Discord 音樂機器人。透過較長的載入時間，換取更流暢、穩定的播放體驗。
 
 A Discord music bot designed with playback stability as its primary goal. It trades longer loading times for smoother and more consistent playback.
